@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f0ff;
+  color: #333;
+}
+
+h1, h2 {
+  color: #6a1b9a;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border: 2px solid #b39ddb;
+}
+
+img {
+  border-radius: 8px;
+  border: 1px solid #b39ddb;
+}
