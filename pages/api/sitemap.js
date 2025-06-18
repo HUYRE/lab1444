@@ -1,6 +1,5 @@
-const BASE_URL = "https://mi-sitio.vercel.app"; // Cambia esto si ya tienes tu dominio
+const BASE_URL = "https://lab1444-git-master-anais-projects-b4f85305.vercel.app";
 
-// 🐞 Simulación de una base de datos
 const rutasDinamicas = [
   { slug: "/" },
   { slug: "/blog" },
