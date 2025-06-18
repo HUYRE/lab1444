@@ -15,6 +15,7 @@ export default function Home() {
   <meta name="google-site-verification" content="_mY4kYJMSlzp0OELPC60_X2_EV-AJLeDcUNhK_EftGE" />
   <meta property="og:image" content="/images/seo-image.png" />
     </Head>
+    
 
 
       <div className="container">
